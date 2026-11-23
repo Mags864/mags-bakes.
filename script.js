@@ -40,7 +40,7 @@ const gallery = [
   { name: "Two layers pink birthday cake", file: "Two layers pink birthday cake.jpg", url: "", price: "₦40,000" },
   { name: "Very nice Fishrolls", file: "Very nice Fishrolls.jpg", url: "", price: "₦200 per one" },
   { name: "Delicious meatpie", file: "Delicious meatpie.jpg", url: "", price: "₦1000" },
-  { name: "Treat 7", file: "Image7.jpg", url: "", price: "₦1,000" },
+  { name: "Soft and Crunchy Chinchin", file: "Soft and Crunchy Chinchin.jpg", url: "", price: "₦8000" },
   { name: "Treat 8", file: "Image8.jpg", url: "", price: "₦1,000" },
   { name: "Treat 9", file: "Image9.jpg", url: "", price: "₦1,000" },
   { name: "Treat 10", file: "Image10.jpg", url: "", price: "₦1,000" },
